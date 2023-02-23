@@ -1,12 +1,6 @@
 new version:
-1.5.1
+1.6.0
 
-3 PRETTY MAJOR UPDATES: 
+new major update:
 
-1) people can only run 1 process now
-2) added LOOPING rolls
-3) added a "cooldown shop" that costs luck
-
-1 MINOR UPDATES:
-
-weekend luck is now added!!!!!
+FIXED SHOP
